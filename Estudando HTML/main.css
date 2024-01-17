@@ -13,14 +13,11 @@ header li {
     margin: 0 auto;
 }
 
-.articles {
+.articles article img {
     display: flex;
+    flex-wrap: wrap;
 }
 
-.articles article img {
+.articles {
     height: 180px;
-}
-
-.articles article img {
-    width: 30%;
 }
