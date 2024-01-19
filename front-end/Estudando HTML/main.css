@@ -14,10 +14,16 @@ header li {
 }
 
 .articles article img {
-    display: flex;
-    flex-wrap: wrap;
+    height: 180px;
 }
 
 .articles {
-    height: 180px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.articles article {
+    width: 30%;
 }
