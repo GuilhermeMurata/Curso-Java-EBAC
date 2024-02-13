@@ -49,12 +49,23 @@ section .container {
 section .container img {
     height: 500px;
     width: 800px;
-    margin-right: 8px;
+    margin-right: 25px;
 }
 
 .container .logo img {
     height: 50px;
     width: 70px;
+}
+
+section .container h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+section .container p {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
 }
 
 section .container {
@@ -73,6 +84,7 @@ section p {
     margin: 8px;
 }
 
-.fachada {
-    margin-right: 40px;
+.social-links img {
+    height: 50px;
+    width: 70px;
 }
