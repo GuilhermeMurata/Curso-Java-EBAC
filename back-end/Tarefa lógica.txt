@@ -1,0 +1,22 @@
+Ao acordar, levando da cama
+Após levantar da cama, vou ao banheiro
+Após chegar na porta do banheiro, verifico se a porta esta fechada
+Porta fechada? Sim {
+    1. Colocar mão na maçaneta da porta
+    2. Girar maçaneta a 360 graus
+    3. Puxar porta
+    4. Entrar no branheiro
+}
+Porta fechada? Não {
+    1. Entrar no banheiro
+}
+Vou até a pia
+Pegar escova de dente e pasta de dente
+Adicionar 5 gramas de pasta de dente nas cerdas da escova de dente
+Escovar dentes
+Ligar torneira
+Enxaguar boca até tirar toda pasta
+Fechar torneira
+
+Fim
+
